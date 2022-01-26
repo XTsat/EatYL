@@ -113,11 +113,11 @@ const MODE_NORMAL = 1, MODE_ENDLESS = 2, MODE_PRACTICE = 3;
 
     w.gameInit = function() {
         createjs.Sound.registerSound({
-            src: "./static/music/err-吃饱喝足去rp嘿嘿.mp3",
+            src: "./static/music/err-你真是该死.mp3",
             id: "err"
         });
         createjs.Sound.registerSound({
-            src: "./static/music/end-药水哥哥，快超市我，我是大母狗.mp3",
+            src: "./static/music/end-你只是个fw.mp3",
             id: "end"
         });
         createjs.Sound.registerSound({
